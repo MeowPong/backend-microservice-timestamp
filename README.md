@@ -13,6 +13,7 @@ This is a simple timestamp microservice built with Node.js and Express.js. It is
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - Node.js installed on your machine
@@ -26,4 +27,5 @@ Clone this repository:
    cd timestamp-microservice
 
 ### Installation
+
 Run: npm start
