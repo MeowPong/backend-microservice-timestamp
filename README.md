@@ -25,7 +25,6 @@ Clone this repository:
    ```bash
    git clone https://github.com/yourusername/timestamp-microservice.git
    cd timestamp-microservice
+   npm install
+   npm start
 
-### Installation
-
-Run: npm start
