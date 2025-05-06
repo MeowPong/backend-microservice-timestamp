@@ -12,7 +12,6 @@ This is a simple timestamp microservice built with Node.js and Express.js. It is
 - Returns an error message if the date is invalid
 
 ## Getting Started
- npm start
 
 ### Prerequisites
 
@@ -25,3 +24,6 @@ Clone this repository:
    ```bash
    git clone https://github.com/yourusername/timestamp-microservice.git
    cd timestamp-microservice
+
+### Installation
+Run: npm start
