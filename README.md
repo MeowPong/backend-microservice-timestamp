@@ -1,11 +1,8 @@
 # Timestamp Microservice
 
-<<<<<<< HEAD
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
-=======
-This is a simple timestamp microservice built with Node.js and Express.js. It is part of Back End Development and APIs coursework on freeCodeCamp.org.
+<h1>This is a simple timestamp microservice built with Node.js and Express.js. It is part of Back End Development and APIs coursework on freeCodeCamp.org.</h1>
 
-## Features
+<h2>Features</h2>
 
 - Returns current timestamp when no date is provided
 - Accepts both:
@@ -14,14 +11,14 @@ This is a simple timestamp microservice built with Node.js and Express.js. It is
 - Returns the date in both **Unix** and **UTC** formats
 - Returns an error message if the date is invalid
 
-## Getting Started
+<h2>Getting Started</h2>
 
 
-### Prerequisites
+<h3>Prerequisites</h3> 
 
 - Node.js installed on your machine
 
-### Installation
+<h3>Installation</h3>
 
 Clone this repository:
 
@@ -31,4 +28,3 @@ Clone this repository:
    npm install
    npm start
 
->>>>>>> d81b194c72ecc21c297a2cad30c6623643e59e89
