@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-<h1>This is a simple timestamp microservice built with Node.js and Express.js. It is part of Back End Development and APIs coursework on freeCodeCamp.org.</h1>
+<b>This is a simple timestamp microservice built with Node.js and Express.js. It is part of Back End Development and APIs coursework on freeCodeCamp.org.</b>
 
 <h2>Features</h2>
 
