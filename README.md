@@ -24,7 +24,7 @@ Clone this repository:
 
    ```bash
    git clone https://github.com/MeowPong/backend-microservice-timestamp
-   cd timestamp-microservice
+   cd backend-microservice-timestamp
    npm install
    npm start
 
